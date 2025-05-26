@@ -17,6 +17,7 @@ Key concepts reinforced through this project include:
 
 🧠 Learning Outcomes
 By completing the Simon Game Challenge, I've:
+
 • learned how to structure an interactive web application using HTML, CSS, and JavaScript.
 • understood how to use jQuery to simplify event handling and DOM manipulation.
 • developed the ability to generate and track a random sequence of events (the game's pattern logic).
